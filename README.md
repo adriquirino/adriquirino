@@ -31,3 +31,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriquirino/adriquirino/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adriquirino/adriquirino/output/github-contribution-grid-snake.svg">
 </picture>
+
+##
+
+### Entre em contato comigo através do linkendin ou email:
+
+<div>
+  <a href="https://www.linkedin.com/in/adriellymaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:adriellymaria485@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+<div style="display: inline_block" align="center">
+<img alt="adri" height="200" width="200" src="https://media.discordapp.net/attachments/1331015572246233139/1396342869777711215/Design_sem_nome.gif?ex=687dbd22&is=687c6ba2&hm=ec6470a3a0b6d9699626253b99d40edf4ce8afff1cb4a99e0f1f58f4fdb40bac&=">
+</div>
