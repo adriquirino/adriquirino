@@ -16,7 +16,7 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <a href="https://github.com/adriquirinos">
+  <a href="https://github.com/adriquirino">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=adriquirino&show_icons=true&theme=synthwave" />
 </a>
   <a href="https://github.com/adriquirino/convoychat">
