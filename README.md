@@ -34,7 +34,7 @@
 
 ##
 
-### Entre em contato comigo através do linkendin ou email:
+### Entre em contato comigo através do linkedin ou email:
 
 <div>
   <a href="https://www.linkedin.com/in/adriellymaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
